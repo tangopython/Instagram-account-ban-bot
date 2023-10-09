@@ -4,11 +4,11 @@ It uses multi threading, therefore it reports very fast.
 This tool is strongly recommended for educational purpose.
 
 
-<h3 align="center">For password ping me :- https://t.me/amphebian07</h3>
+<h3 align="center">For password ping me :- https://t.me/tangopython</h3>
 
 <h3 align="center">Price is simple 35$</h3>
 
-<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/amphebian07</h3>
+<h3 align="center">For intresting tools and scripts visit channel :- https://t.me/tangopython</h3>
 
 ![instareport](https://github.com/tangopython/Instagram-account-ban-bot/assets/147417123/1177b285-5b22-425a-864d-1ba1c6ce1458)
 ![instareport1](https://github.com/tangopython/Instagram-account-ban-bot/assets/147417123/7c694db1-a999-4a12-a2fb-4f89705f6122)
@@ -46,5 +46,5 @@ ANDROID (Termux)
 
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/Instagram-Report-Bot"><img alt="Cute Count" 
+<a href="https://github.com/tangopython/Instagram-Report-Bot"><img alt="Cute Count" 
 src="https://count.getloli.com/get/@Insta-Report-Bot?theme=rule34" /></a>
